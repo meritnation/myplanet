@@ -1,0 +1,13 @@
+
+.search-wrapper{
+	margin: 0 auto;
+	width:400px;
+	margin-top: 100px;
+
+}
+.search-wrapper>.paper{
+	padding: 20px;
+}
+.search-wrapper .submit{
+	margin-top: 20px;
+}
